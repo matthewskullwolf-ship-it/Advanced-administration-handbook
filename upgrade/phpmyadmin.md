@@ -1,3 +1,4 @@
+![IMG_20250730_163021](https://github.com/user-attachments/assets/5c1b0e43-55d3-42a6-ab61-e1197dbc271c)
 # phpMyAdmin
 
 ## What is phpMyAdmin?
